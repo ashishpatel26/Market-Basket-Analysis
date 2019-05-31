@@ -569,4 +569,7 @@ for item in association_results:
     =====================================
     
 
-References : **Theory** https://www.kdnuggets.com/2016/04/association-rules-apriori-algorithm-tutorial.html
+References : 
+**Theory** :
+1. https://www.kdnuggets.com/2016/04/association-rules-apriori-algorithm-tutorial.html
+2. https://stackabuse.com/association-rule-mining-via-apriori-algorithm-in-python/
